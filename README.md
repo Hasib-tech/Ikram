@@ -20,7 +20,7 @@ $ git clone https://github.com/Hasib-tech/Ikram
 
 $ ls
 
-$ cd Hasib
+$ cd Ikram
 
 $ ls
 
