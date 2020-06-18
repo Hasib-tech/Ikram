@@ -24,7 +24,7 @@ $ cd Hasib
 
 $ ls
 
-$ python2 Hasib.ph
+$ python2 Ikram.py
 
 Username:hasib
 
