@@ -16,11 +16,11 @@ $ pkg install pip
 
 $ pip2 install requests mechanize
 
-$ git clone https://github.com/Hasib-tech/Ikram
+$ git clone https://github.com/Hasib-tech/IkramFBPID
 
 $ ls
 
-$ cd Ikram
+$ cd IkramFBPID
 
 $ ls
 
